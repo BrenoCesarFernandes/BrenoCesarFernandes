@@ -20,5 +20,5 @@ Mestre Yoda
 
 ## Alguns dos meus trabalhos com Dados:
 - [Dashboard - Transparência Prefeitura Municipal de São Gonçalo do Pará/MG](https://app.powerbi.com/view?r=eyJrIjoiN2JhYjJjZmMtMjYwNC00ZDM1LWJjZjUtNmJjNDE2ZjAxZDA3IiwidCI6ImI1NjI5ZGYwLWYxNzgtNDMwNy04YzQ5LTA5MmNjZDk4M2U2ZCJ9&pageName=ReportSection)</br>
-- [Dashboard - Geestão de Vendas](https://app.powerbi.com/view?r=eyJrIjoiMGQxZjc5OGYtYWZmNC00NzU5LWJhNGEtNmQ3ZDA2NDcwYmE2IiwidCI6ImI1NjI5ZGYwLWYxNzgtNDMwNy04YzQ5LTA5MmNjZDk4M2U2ZCJ9)</br>
+- [Dashboard - Gestão de Vendas](https://app.powerbi.com/view?r=eyJrIjoiMGQxZjc5OGYtYWZmNC00NzU5LWJhNGEtNmQ3ZDA2NDcwYmE2IiwidCI6ImI1NjI5ZGYwLWYxNzgtNDMwNy04YzQ5LTA5MmNjZDk4M2U2ZCJ9)</br>
 - [Dashboard - Financeiro](https://app.powerbi.com/view?r=eyJrIjoiM2Y3ODFiYTEtMWRlYS00ZjJjLTkzNjMtNWMyNjc2NDdmMzVmIiwidCI6ImI1NjI5ZGYwLWYxNzgtNDMwNy04YzQ5LTA5MmNjZDk4M2U2ZCJ9&pageName=ReportSection)</br>
